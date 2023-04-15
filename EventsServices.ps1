@@ -1,35 +1,21 @@
 ﻿
 
 $dps =  @(
-"lit-logdp01-p01.resldap.net",
-"lit-logdp01-p02.resldap.net",
-"lit-logdp01-p03.resldap.net",
-"lit-logdp01-p04.resldap.net",
-"lit-logdp01-p05.resldap.net",
-"lit-logdp01-p06.resldap.net",
-"lit-logdp01-p07.resldap.net",
-"lit-logdp01-p08.resldap.net",
-"lit-logdp01-p09.resldap.net",
-"lit-logdp01-p010.resldap.net",
-"all-logdp01-p01.resldap.net",
-"all-logdp01-p02.resldap.net",
-"all-logdp01-p03.resldap.net",
-"all-logdp01-p04.resldap.net"
+"dp1.company.net",
+"dp2.company.net",
+"dp3.company.net"
 )
 
 $aies = @(
-"all-logai01-p01.resldap.net",
-"lit-logai01-p01.resldap.net",
-"lit-logai01-p02.resldap.net",
-"lit-logai01-p03.resldap.net"
+"aie1.company.net",
+"aie2.company.net",
+"aie3.company.net"
 )
 
 $webs = @(
-"lit-logwb01-p01.resldap.net",
-"lit-logwb01-p02.resldap.net",
-"lit-logwb01-p03.resldap.net",
-"lit-logwb01-p04.resldap.net",
-"all-logwb01-p01.resldap.net"
+"web1.company.net",
+"web1.company.net",
+"web1.company.net"
 )
 
 
